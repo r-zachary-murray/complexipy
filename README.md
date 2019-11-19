@@ -9,4 +9,16 @@ run.sh executes both of the above files sequentially and compiles the data resul
 
 Some examples of the script are below:
 
-![Test](factor_pollardrho.png)
+
+for pollardrho factorization: 
+
+![factor_pollardrho](factor_pollardrho.png)
+
+
+for karatsuba multiplication: 
+
+![multiplication_karatsuba](multiplication_karatsuba.png)
+
+for factorial, binary split algorithym: 
+
+![factorial_binarysplit](factorial_binarysplit.png)
